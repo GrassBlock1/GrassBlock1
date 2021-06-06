@@ -13,7 +13,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          token: ${{ "0a3750ae263c0b5f36c884d8d7acdd7beb281a42" }}
+          token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
           user: Grassblock1
