@@ -15,12 +15,9 @@ jobs:
   # uses: saulmaldonado/skip-workflow@56e98c2e1ea2784325b1f7651453995a86470027
         uses: saulmaldonado/skip-workflow@v1.1.0
         with:
-    # phrase to search for in commit messages
           phrase: readme
-    # messages or tags to search phrase for
           search: commit_messages
-    # workflow github token
-          github-token: ${{ secrets.METRICS_TOKEN }}
+          github-token: ${{ secrets.GITHUB_TOKEN }}
       - uses: lowlighter/metrics@master
         with:
           # Your GitHub token
