@@ -19,7 +19,7 @@ jobs:
     - name: Pull
       uses: BlockG-ws/quote-box-gist@v0.1.0
       with:
-        quotes: ./quotes.json # 可選
+        quotes: quotes.json # 可選
     - name: Push
       uses: exuanbo/actions-deploy-gist@v1.1.4
       with:
