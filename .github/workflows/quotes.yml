@@ -1,0 +1,30 @@
+name: Push to Gist
+
+on:
+  push:
+    branches:
+      - master
+  schedule:
+    - cron: 42 */2 * * * # 每两小时执行一次
+
+jobs:
+  push:
+    runs-on: ubuntu-22.04
+    env:
+      FILE_NAME: 🌧 Quote
+      GIST_ID: 42dcc0eeddd9e4595012c245391c51a0
+    steps:
+    - name: Pull
+      uses: BlockG-ws/quote-box-gist@v0.1.0
+      with:
+        quotes: ./quotes.json # 可選
+    - name: Push
+      uses: exuanbo/actions-deploy-gist@v1.1.4
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        gist_id: ${{ env.GIST_ID }} # 上述 `env` 設定
+        gist_file_name: ${{ env.FILE_NAME }} # 上述 `env` 設定
+        file_path: quote.txt
+        file_type: text
+
+# Authored by Yu-huan Kuo, licensed under MIT License.
