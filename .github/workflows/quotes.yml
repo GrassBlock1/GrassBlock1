@@ -14,6 +14,8 @@ jobs:
       FILE_NAME: 🌧 Quote
       GIST_ID: 42dcc0eeddd9e4595012c245391c51a0
     steps:
+    - name: checkout
+      uses: actions/checkout@v3
     - name: Pull
       uses: BlockG-ws/quote-box-gist@v0.1.0
       with:
