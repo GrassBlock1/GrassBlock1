@@ -23,7 +23,7 @@ jobs:
     - name: Push
       uses: exuanbo/actions-deploy-gist@v1.1.4
       with:
-        token: ${{ secrets.GITHUB_TOKEN }}
+        token: ${{ secrets.GISTS_TOKEN }}
         gist_id: ${{ env.GIST_ID }} # 上述 `env` 設定
         gist_file_name: ${{ env.FILE_NAME }} # 上述 `env` 設定
         file_path: quote.txt
