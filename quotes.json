@@ -4,5 +4,8 @@
     {"id":3,"sentence":"头抬起，您不是最新的","category":1,"cite":"Windows","author":"微软式中文"},
     {"id":4,"sentence":"你的电脑将重启多次，坐和放宽","category":1,"cite":"Windows 10 Technical Preview 更新界面","author":"微软式中文"},
     {"id":5,"sentence":"如果你认为BIOS是一种新的植物性燃料，那么技术预览版可能不适合你。","category":1,"cite":"Microsoft Support","author":"微软式中文"},
+    {"id":6,"sentence":"AI 扰乱了行业。请加入我们，我们还要进一步扰乱行业。","category":1,"cite":"Microsoft Build 2024","author":"微软式中文"},
+    {"id":7,"sentence":"我将，点燃大海。","category":6,"cite":"崩坏星穹铁道","author":"流萤"},
+    {"id":8,"sentence":"我能吞下玻璃而不伤身体。","category":1,"cite":"I Can Eat Glass Project | GNOME字体查看器展示中文字体时的示例文字","author":"I Can Eat Glass Project (and its volunteers)"},
     {"id":42,"sentence":"生而为人，应该能够换尿布、策划入侵、杀猪、开船、造房子、写十四行诗、算账、建墙、正骨、抚慰临终之人、接受命令、下达命令、合作、独行、解决方程式、分析新问题、清理马粪、编程、烹饪美食、高效战斗、英勇牺牲。专业分工是给昆虫准备的。","category":5,"cite":"时间足够你爱","author":"罗伯特·海莱恩"}
   ]  
