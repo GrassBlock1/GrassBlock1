@@ -1,9 +1,5 @@
 ### Hi there 👋
-
-<!--
-**GrassBlock1/GrassBlock1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&pause=1000&color=5E81AC&repeat=false&random=false&width=435&lines=+Per+aspera+ad+astra.)](https://git.io/typing-svg)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,7 +9,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 #### My Stats
+Refactor needed...
 <!-- ![Stats](https://metrics.lecoq.io/Grassblock1?template=classic&activity=1&followup=1&isocalendar=1&languages=1&pagespeed=1&stars=1&tweets=1&pagespeed.detailed=true&pagespeed.screenshot=true&isocalendar.duration=full-year&tweets.limit=2&tweets.user=Grass_block_cn&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FShanghai&config.animated=true) -->
-![alt](/github-metrics.svg)
+<!-- ![alt](/github-metrics.svg) -->
