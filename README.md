@@ -14,3 +14,4 @@
 Refactor needed...
 <!-- ![Stats](https://metrics.lecoq.io/Grassblock1?template=classic&activity=1&followup=1&isocalendar=1&languages=1&pagespeed=1&stars=1&tweets=1&pagespeed.detailed=true&pagespeed.screenshot=true&isocalendar.duration=full-year&tweets.limit=2&tweets.user=Grass_block_cn&stars.limit=4&activity.limit=5&activity.days=14&activity.filter=all&config.timezone=Asia%2FShanghai&config.animated=true) -->
 <!-- ![alt](/github-metrics.svg) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=GrassBlock&theme=nord&hide_border=true&date_format=n%2Fj%5B%2FY%5D)](https://git.io/streak-stats)
