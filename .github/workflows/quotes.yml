@@ -5,7 +5,7 @@ on:
     branches:
       - master
   schedule:
-    - cron: 42 */2 * * * # 每两小时执行一次
+    - cron: 42 */4 * * * # 每两小时执行一次
 
 jobs:
   push:
@@ -14,19 +14,15 @@ jobs:
       FILE_NAME: 🌧 Quote
       GIST_ID: 42dcc0eeddd9e4595012c245391c51a0
     steps:
-    - name: checkout
-      uses: actions/checkout@v3
     - name: Pull
-      uses: BlockG-ws/quote-box-gist@v0.2.0
-      with:
-        quotes: quotes.json # 可選
+      run:
+        |
+        curl -sSL "https://gb0.dev/g/quotes?gist" -o quote.txt
     - name: Push
       uses: exuanbo/actions-deploy-gist@v1.1.4
       with:
         token: ${{ secrets.GISTS_TOKEN }}
-        gist_id: ${{ env.GIST_ID }} # 上述 `env` 設定
-        gist_file_name: ${{ env.FILE_NAME }} # 上述 `env` 設定
+        gist_id: ${{ env.GIST_ID }}
+        gist_file_name: ${{ env.FILE_NAME }}
         file_path: quote.txt
         file_type: text
-
-# Authored by Yu-huan Kuo, licensed under MIT License.
