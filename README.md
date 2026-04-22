@@ -7,9 +7,9 @@ A weird man messing around the Internet with a random block name...
 
 
 - 🔭 I’m currently working on 🐟
-- 🌱 I’m currently learning: ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white) & ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) & ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) .
+- 🌱 I’m currently learning: ![Astro](https://img.shields.io/badge/astro-%232C2052.svg?style=for-the-badge&logo=astro&logoColor=white), ![Nuxt JS](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxt&logoColor=#00DC82), ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) and a lot more.
 - 👯 I’m looking to collaborate on frontend projects.
-- 🤔 I’m looking for help with the lack of ❤️.
+- 🤔 I’m looking for help with the lack of a man to ❤️ him.
 - 💬 Ask me about daily usage of Linux desktop, maybe...? 
 - 📫 How to reach me:
   - Email: i[at]gb0[dot]dev
@@ -17,11 +17,13 @@ A weird man messing around the Internet with a random block name...
   - ⬅️ more links...
 - 😄 Pronouns: gb/he/him
 - ⚡ Fun fact:
-  - It seems that this guy thinks himself as a 🦊.
+  - this guy sometimes disguses him self as a 🦊.
 ### I am using...
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) | ![Windows 11](https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white) | ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge) | ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white) | ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) | ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) | ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) | ![Codeberg](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)
+
+![Starship](https://img.shields.io/badge/starship-%23DD0B78?style=for-the-badge&logo=starship&logoColor=white) | ![Tutanota](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)
 ### My Status
 _Refactor needed..._
 
